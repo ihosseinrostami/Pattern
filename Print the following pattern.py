@@ -1,4 +1,4 @@
-#print 
+#print the following patern
 #1 
 #2 2 
 #3 3 3 
